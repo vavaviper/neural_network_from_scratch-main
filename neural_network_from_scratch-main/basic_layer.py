@@ -1,3 +1,4 @@
+#making a basic layer 
 inputs = [1.0, 2.0, 3.0, 2.5]
 
 weights1 = [0.2, 0.8, -0.5, 1.0]
