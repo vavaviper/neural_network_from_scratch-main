@@ -4,7 +4,7 @@ This project demonstrates how to build and train a fully-connected neural networ
 
 ## Features
 
-- **Custom Neural Network Implementation:** No PyTorch or TensorFlow for the model itself—just NumPy.
+- **Custom Neural Network Implementation:** No PyTorch or TensorFlow for the model itself, just NumPy.
 - **He Initialization:** For improved convergence in deep networks.
 - **ReLU Activation:** Used in hidden layers for non-linearity.
 - **Softmax Output:** For multi-class classification.
@@ -57,8 +57,8 @@ This will:
 
 ## File Structure
 
-- `nnfs.py` — Main script containing the neural network implementation and training loop.
-- `README.md` — Project documentation.
+- `nnfs.py` - Main script containing the neural network implementation and training loop.
+- `README.md` - Project documentation.
 
 ## Example Output
 
@@ -73,3 +73,4 @@ Test Accuracy: 96.67%
 ## License
 
 This project is for educational purposes and is provided under the MIT License.
+
